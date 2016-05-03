@@ -1,0 +1,2 @@
+module
+# "module" if generates content, "pseudo-module", if doesn't generate actual content (e.g. the redirect module)
