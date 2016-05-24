@@ -8,7 +8,7 @@ Blank webserver application based on WSGI.
  - When you are ready navigate to the root folder of the app and install it by: ```sudo make install```
 
 ### Apache setup
-In order to make it work with Apache, you might need to add the following lines to its config (```/etc/apache2/apache2.conf```). However, before doing that you'd better create a backup of your current config.
+In order to make it work with Apache, you might need to add the following lines (please replace 'wsgiblank' with your application's name) to its config (```/etc/apache2/apache2.conf```). However, before doing that you'd better create a backup of your current config.
 
 ```
 DocumentRoot /var/www/
