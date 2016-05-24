@@ -1,1 +1,2 @@
-- Handling folders as static
+- Handling folders as static (in WSGI mode)
+- Configure CGI error report
